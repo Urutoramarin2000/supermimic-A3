@@ -1,0 +1,6 @@
+# Installed by setup_env.sh. On Linux x86_64 the PyPI torch 2.7.1 wheel is built against CUDA 12.6.
+torch==2.7.1
+mujoco==3.8.1
+mujoco-warp==3.8.1
+warp-lang==1.14.0
+numpy==1.26.4

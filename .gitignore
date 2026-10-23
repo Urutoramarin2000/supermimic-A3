@@ -1,0 +1,14 @@
+# Python environment and training outputs
+.venv/
+runs/
+__pycache__/
+*.pyc
+
+# Robot model and reference motions are not in git (see README: 准备机器人模型和动作数据)
+assets/*
+!assets/README.md
+data/*
+!data/README.md
+*.tar.gz
+
+.DS_Store
